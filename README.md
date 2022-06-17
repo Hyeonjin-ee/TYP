@@ -27,7 +27,7 @@
 
 
 ## **2. 프로젝트 주제**
-### "키워드"를 통한 사용자 맞춤 여행지 추천 웹 서비스 :tram: :palm_tree: :camera:
+### "키워드"를 통한 사용자 맞춤 서울시내 놀거리 추천 웹 서비스 :tram: :palm_tree: :camera:
 <br/>
 
 - FlowChart
