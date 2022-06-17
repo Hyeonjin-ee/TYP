@@ -1,0 +1,45 @@
+.survay-container {
+    width: auto;
+    height: auto;
+    text-align: center;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    
+}
+.survay-span {
+    display: inline-block;
+    padding: 15px 10px;
+    border: 30px solid white;
+    background-color: skyblue;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 70px;
+}
+
+
+.survay-label input[type="radio"] {
+    display: none;
+    box-sizing: content-box;
+    width: auto;
+    height: 120px;
+}
+
+.survay-label input[type="radio"] + span {
+    display: inline-block;
+    padding: 15px 10px;
+    border: 30px solid white;
+    background-color: lightgray;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: content-box;
+    width: 120px;
+    border-radius: 50px;
+    
+}
+
+.survay-label input[type="radio"]:checked + span {
+    background-color: skyblue;
+    color: #ffffff;
+}
+

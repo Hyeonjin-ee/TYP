@@ -1,0 +1,98 @@
+.survay-wrap {
+    text-align: center;
+}
+
+.survay-container {
+    width: auto;
+    height: auto;
+    text-align: center;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    
+}
+.survay-span {
+    display: inline-block;
+    padding: 15px 10px;
+    border: 30px solid white;
+    background-color: skyblue;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 70px;
+}
+
+
+.survay-label input[type="radio"] {
+    display: none;
+    box-sizing: content-box;
+    width: auto;
+    height: 120px;
+}
+
+.survay-label input[type="radio"] + span {
+    display: inline-block;
+    padding: 15px 10px;
+    border: 30px solid white;
+    background-color: lightgray;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: content-box;
+    width: 120px;
+    border-radius: 50px;
+    
+}
+
+.survay-label input[type="radio"]:checked + span {
+    background-color: skyblue;
+    color: #ffffff;
+}
+
+.survay-label input[type="radio"] {
+    display: none;
+    box-sizing: content-box;
+    width: auto;
+    height: 120px;
+}
+
+.survay-label input[type="checkbox"] {
+    display: none;
+    box-sizing: content-box;
+    width: auto;
+    height: 120px;
+}
+
+.survay-label input[type="checkbox"] + span {
+    display: inline-block;
+    padding: 15px 10px;
+    border: 30px solid white;
+    background-color: lightgray;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: content-box;
+    width: 120px;
+    border-radius: 50px;
+    
+}
+
+.survay-label input[type="checkbox"]:checked + span {
+    background-color: skyblue;
+    color: #ffffff;
+}
+.survay-btn-container{
+    height: 52px;
+    line-height: 55px;
+    margin: 10px 0px 50px 0px;
+    border: solid 1px rgba(0,0,0,.1);
+    background-color: lightblue;
+    color: #fff;
+}
+.survay-btn{
+    width: 200px;
+    background-color: light;
+    border: none;
+    color: black;
+    font-size: 18px;
+    outline:none;
+    cursor: pointer;
+}
+

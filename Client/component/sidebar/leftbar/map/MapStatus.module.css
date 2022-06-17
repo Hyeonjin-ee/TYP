@@ -1,0 +1,11 @@
+.icon-cart{
+    display: flex;
+    cursor: pointer;
+    margin: 15px;
+    justify-content: flex-end;
+}
+
+.main {
+    text-align: center;
+    width: auto;
+}

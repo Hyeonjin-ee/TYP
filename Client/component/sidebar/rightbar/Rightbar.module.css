@@ -1,0 +1,88 @@
+.wrapper {
+    float: right;
+}
+.search-wrap{
+    position: relative;
+    width: 300px;
+}
+
+.search{
+    width: 100%;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 14px;
+}
+
+.entire-wrap{
+    margin-top: 20px;
+}
+
+.btn-wrap{
+    text-align: center;
+}
+
+.btn{
+    cursor: pointer;
+    width: 100px;
+}
+
+.list-container {
+    margin-top: 10px;
+}
+
+.ul{
+    list-style: none;
+    padding-left: 0px;
+    
+}
+
+
+
+.li{
+    
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.h7{
+    margin-bottom: 10px;
+}
+
+.content{
+    line-height: 50px;
+    
+}
+
+.checkbox-wrap{
+  width: auto;
+  height: auto;
+}
+
+.input{
+    zoom: 3;
+    float: left;
+}
+
+.input-label{
+    text-align: center;
+}
+
+.input-icon{
+    text-align: right;
+    float: right;
+}
+
+.container1 {
+    position: relative; width: 100px; height: 100px; float: left; margin-left: 10px; 
+}
+
+.input1 {
+    position: absolute; bottom: 0px; right: 0px; 
+}
+
+.image{
+    width: 230px;
+    height: 100px;
+    float: right;
+}
