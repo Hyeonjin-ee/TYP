@@ -9,7 +9,7 @@
 
 ### [ BackEnd ]
 - ### :mouse: 김현진 [https://github.com/Hyeonjin-ee]
-- ### :tiger: 황지원 
+- ### :tiger: 황지원 [https://github.com/hwangjiwon98]
 <br/>
 
 ### [ Github repo ]
