@@ -271,6 +271,7 @@
 - 프론트에서 회원가입시 CORS 오류 발생 -> 백엔드에 CrossOrigin(*)으로 해결
 - next.js에서 데이터 정보를 실제 이동하는 페이지와 다른 js파일로 넘겨주는 방법을 찾지 못함
 - 데이터를 이동시키는 방법을 찾지 못한 이유로 뒤의 작업들이 진행되지 못함
+- org.springframework.http.converter.HttpMessageConversionException: Type definition error -> dto에 @AllArgsConstructor @NoArgsConstructor 추가로 해결
 
 <br/>
 
