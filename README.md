@@ -4,7 +4,7 @@
 
 ## **0. 팀원 소개**
 ### [ FrontEnd ]
-- ### :dog: 송 준 
+- ### :dog: 송 준 [https://github.com/songjun94]
 - ### :tiger: 장영광 
 
 ### [ BackEnd ]
