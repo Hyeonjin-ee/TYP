@@ -1,0 +1,30 @@
+.info-container {
+
+    
+    text-align: center;
+    
+}
+.info-label input[type="checkbox"] {
+    display: none;
+    box-sizing: content-box;
+    width: auto;
+    height: auto;
+}
+
+.info-label input[type="checkbox"] + span {
+    display: inline-block;
+    padding: 5px 2px;
+    border: 30px solid white;
+    background-color: lightgray;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: content-box;
+    width: 60px;
+    border-radius: 50px;
+    
+}
+
+.info-label input[type="checkbox"]:checked + span {
+    background-color: skyblue;
+    color: #ffffff;
+}

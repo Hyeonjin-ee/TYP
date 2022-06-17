@@ -1,0 +1,62 @@
+.wrapper {
+    margin-top: 120px;
+}
+
+.login-container{
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+.h1 {
+    text-align: left;
+}
+
+.email-container {
+    display:flex;
+    /* margin: 0px 10px 8px 10px; */
+    padding: 10px;
+    border: solid 1px #dadada;
+    background: #fff;
+    cursor: pointer;
+    width: 600px;
+
+}
+
+.email {
+    width: 600px;
+}
+
+.password-container{
+    display:flex;
+    /* margin: 0px 10px 8px 10px; */
+    padding: 10px;
+    border: solid 1px #dadada;
+    background: #fff;
+    cursor: pointer;
+    width: 600px;
+}
+
+.password{
+    width: 600px;
+}
+
+.button-container{
+    height: 52px;
+    line-height: 55px;
+    margin: 10px 0px 50px 0px;
+    border: solid 1px rgba(0,0,0,.1);
+    background-color: lightblue;
+    color: #fff;
+}
+
+.button{
+    width: 200px;
+    background-color: light;
+    border: none;
+    color: black;
+    font-size: 18px;
+    outline:none;
+    cursor: pointer;
+
+}
