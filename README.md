@@ -3,7 +3,6 @@
 <br/>
 
 ## **0. 팀원 소개**
-#
 ### [ FrontEnd ]
 - ### :dog: 송 준 
 - ### :tiger: 장영광 
@@ -21,7 +20,6 @@
 
 
 ## **1. 기술 스택**
-#
 - ### FE : HTTP/CSS, Next.js
 - ### BE : SpringBoot, Gradle, JAVA, JPA, Lombok, MySQL
 <br/>
@@ -29,7 +27,6 @@
 
 
 ## **2. 프로젝트 주제**
-#
 ### "키워드"를 통한 사용자 맞춤 여행지 추천 웹 서비스 :tram: :palm_tree: :camera:
 <br/>
 
@@ -41,22 +38,21 @@
 
 - 프로토 타입
 
-<img src="https://user-images.githubusercontent.com/63301908/174037826-905a099b-a0d1-442d-8d6a-e4f67f91efff.png" width = "480" height="260">
+<img src="https://user-images.githubusercontent.com/63301908/174037826-905a099b-a0d1-442d-8d6a-e4f67f91efff.png" width=600>
 
-<img src="https://user-images.githubusercontent.com/63301908/174038158-b71a91b6-78a5-4c03-8b0c-647fea033fff.png" width = "480" height="260">
+<img src="https://user-images.githubusercontent.com/63301908/174038158-b71a91b6-78a5-4c03-8b0c-647fea033fff.png" width=600>
 
-<img src="https://user-images.githubusercontent.com/63301908/174038262-dfc147bc-d9e6-498d-bdd6-460b8df65f79.png" width = "480" height="260">
+<img src="https://user-images.githubusercontent.com/63301908/174038262-dfc147bc-d9e6-498d-bdd6-460b8df65f79.png" width=600>
 
-<img src="https://user-images.githubusercontent.com/63301908/174038427-0bfbe839-34a2-470c-a61e-871e29aba847.png" width = "480" height="260">
+<img src="https://user-images.githubusercontent.com/63301908/174038427-0bfbe839-34a2-470c-a61e-871e29aba847.png" width=600>
 
 
 <br/>
 <br/>
 
 ## **3. 도메인 용어 정리 / ERD 테이블**
-#
   ![midproject erd](https://user-images.githubusercontent.com/69191828/174039849-e0771fbe-a81a-49fa-8a88-a287b71e9686.png)
-  
+
   <br/>
 
   ### [User : 회원 정보 테이블]
