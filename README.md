@@ -5,7 +5,7 @@
 ## **0. 팀원 소개**
 ### [ FrontEnd ]
 - ### :dog: 송 준 [https://github.com/songjun94]
-- ### :tiger: 장영광 
+- ### :tiger: 장영광 [https://github.com/glory9802]
 
 ### [ BackEnd ]
 - ### :mouse: 김현진 [https://github.com/Hyeonjin-ee]
