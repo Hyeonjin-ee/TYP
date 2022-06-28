@@ -20,7 +20,7 @@
 
 
 ## **1. 기술 스택**
-- ### FE : HTTP/CSS, Next.js
+- ### FE : HTML/CSS, Next.js
 - ### BE : SpringBoot, Gradle, JAVA, JPA, Lombok, MySQL
 <br/>
 <br/>
